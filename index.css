@@ -1,3 +1,5 @@
+
+
 .header{
   display: inline-block;
   position: relative;
@@ -84,7 +86,7 @@
   top: 25px;
   font-family: verdana;
   left: 150px;
-}
+} 
 
 .vl{
   font-family: verdana;
@@ -94,6 +96,7 @@
   top: 33px;
   color:  rgb(36, 187, 247); 
 }
+
 .gallery {
  height: 130px;
  width: 200px;
@@ -110,7 +113,7 @@
 }
 
 .gallery2{
-height: 130px;
+ height: 130px;
  width: 200px;
  display: inline-flex;
  flex-direction: row;
@@ -122,21 +125,81 @@ height: 130px;
  position: relative;
  top: 200px;
  left: -527px;
-}
+} 
 
 .profile{
-  width: 225px;
-  height: 225px;
+  width: 170px;
+  height:170px;
   position: relative;
-  bottom: 800px;
-}
-
+  top: -1255px;
+  left: 1420px;
+} 
+ 
 .name {
   position: relative;
-  left: 1470px;
-  bottom: 780px;
+  left: 1445px;
+  bottom: 1230px;
   font-family: verdana;
   font-size: 20px;
+} 
+
+.box1 {
+ width: 265px;
+ height: 275px;
+ border-style: none;
+ border-color: black;
+ position: relative;
+ left: 1375px;
+ top: -1000px;
+ border-radius: 10px;
+ box-shadow: 2px 2px 15px 8px rgba(0,0,0,0.2);
+ margin: 0px;
+}
+
+.box2 {
+  width: 265px;
+ height: 375px;
+ border-style: none;
+ border-color: black;
+ position: relative;
+ left: 1375px;
+ top: -1160px;
+ border-radius: 10px;
+ box-shadow: 2px 2px 15px 8px rgba(0,0,0,0.2);
+ margin: 0px;
+}
+
+.particles {
+  position: relative;
+  bottom: 1520px;
+  padding-left: 1440px;
+  font-family: verdana;
+  font-size: medium;
+}
+
+.ol {
+  position: relative;
+  padding-left: 1420px;
+  font-family: verdana;
+  font-size: small;
+  bottom: 1500px;
+  margin-bottom: 1px;
+  justify-content: space-between;
+
+}
+
+.btnScrollingQuestion {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: black;
+  background-color: rgb(126, 218, 255); 
+  margin: 0px;
+
 }
 
 
@@ -144,6 +207,7 @@ height: 130px;
   font-family: verdana;
   text-size: 15px;
   position: relative;
-  left: 25px;
+  padding-left: 20px;
   top: 23px;
+  margin: 0px;
 }
