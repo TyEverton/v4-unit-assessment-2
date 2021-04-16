@@ -72,6 +72,7 @@
   position: relative;
   padding-left: 150px;
   padding-right: 600px;
+  font-weight: 50;
 }
 
 .imgGallery{
@@ -131,26 +132,26 @@
   width: 170px;
   height:170px;
   position: relative;
-  top: -1255px;
-  left: 1420px;
+  top: -1190px;
+  left: 1445px;
 } 
  
 .name {
   position: relative;
-  left: 1445px;
-  bottom: 1230px;
+  left: 1475px;
+  bottom: 1150px;
   font-family: verdana;
   font-size: 20px;
 } 
 
 .box1 {
- width: 265px;
- height: 275px;
+ width: 259px;
+ height: 265px;
  border-style: none;
  border-color: black;
  position: relative;
- left: 1375px;
- top: -1000px;
+ left: 1405px;
+ top: -935px;
  border-radius: 10px;
  box-shadow: 2px 2px 15px 8px rgba(0,0,0,0.2);
  margin: 0px;
@@ -162,8 +163,8 @@
  border-style: none;
  border-color: black;
  position: relative;
- left: 1375px;
- top: -1160px;
+ left: 1405px;
+ top: -1100px;
  border-radius: 10px;
  box-shadow: 2px 2px 15px 8px rgba(0,0,0,0.2);
  margin: 0px;
@@ -171,18 +172,18 @@
 
 .particles {
   position: relative;
-  bottom: 1520px;
-  padding-left: 1440px;
+  bottom: 1465px;
+  padding-left: 1460px;
   font-family: verdana;
   font-size: medium;
 }
 
 .ol {
   position: relative;
-  padding-left: 1420px;
+  padding-left: 1425px;
   font-family: verdana;
   font-size: small;
-  bottom: 1500px;
+  bottom: 1450px;
   margin-bottom: 1px;
   justify-content: space-between;
 
